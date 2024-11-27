@@ -2,8 +2,8 @@
 src = 'contracts'
 libs = ['lib']
 out = 'out'
-solc_version = '0.8.17'
-evm_version = 'london'
+solc_version = '0.8.24'
+evm_version = 'cancun'
 optimizer_runs = 1000
 
 # See more config options https://github.com/gakonst/foundry/tree/master/config
